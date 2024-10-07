@@ -73,6 +73,10 @@ console.log ( result2 )
 
 // extra
 
+name2=name2.toLowerCase()
+let totalname = name1===name2 
+console.log (totalname)
+
 
 
 
